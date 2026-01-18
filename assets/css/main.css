@@ -2164,4 +2164,8 @@ article.thumb p {
 .shop-center:hover {
   opacity: 1;
 }
+html, body {
+  margin: 0;
+  padding: 0;
+}
 
